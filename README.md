@@ -11,7 +11,7 @@
 7. **Naive Bayes**
 8. **K-Nearest Neighbor (KNN)**
 
----
+--- 
 
 # I have made the data preprocessing dynamic to enable flexible modeling
 ## I implemented the <i>transform</i> function to clean the data
